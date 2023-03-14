@@ -104,7 +104,7 @@ The available API endpoints are as follows:
 - Get one product by id. If id doesn't exist, it throws an error.
 
 ```
- [GET]: http://localhost:API_PORT/products/:id
+ [GET]: http://localhost:API_PORT/products/id
 ```
 
 - Create a product.
@@ -116,13 +116,13 @@ The available API endpoints are as follows:
 - Update a product by id. If id doesn't exist, it throws an error. Can provide any field _(name, price, or description)_ to be updated.
 
 ```
- [PATCH]: http://localhost:API_PORT/products/:id
+ [PATCH]: http://localhost:API_PORT/products/id
 ```
 
 - Delete a product by id. If id doesn't exist, it throws an error.
 
 ```
- [DELETE]: http://localhost:API_PORT/products/:id
+ [DELETE]: http://localhost:API_PORT/products/id
 ```
 
 ### 4) OpenAPI Specification
