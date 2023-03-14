@@ -147,7 +147,7 @@ The output should be as follows:
 Test Suites: 1 passed, 1 total
 Tests:       9 passed, 9 total
 Snapshots:   0 total
-Time:        7.114 s
+Time:        10.216 s
 ```
 
 THANK YOU.
